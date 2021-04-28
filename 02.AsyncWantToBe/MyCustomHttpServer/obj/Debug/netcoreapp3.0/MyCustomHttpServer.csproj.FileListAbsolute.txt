@@ -1,0 +1,12 @@
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\bin\Debug\netcoreapp3.0\MyCustomHttpServer.exe
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\bin\Debug\netcoreapp3.0\MyCustomHttpServer.deps.json
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\bin\Debug\netcoreapp3.0\MyCustomHttpServer.runtimeconfig.json
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\bin\Debug\netcoreapp3.0\MyCustomHttpServer.runtimeconfig.dev.json
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\bin\Debug\netcoreapp3.0\MyCustomHttpServer.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\bin\Debug\netcoreapp3.0\MyCustomHttpServer.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\obj\Debug\netcoreapp3.0\MyCustomHttpServer.AssemblyInfoInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\obj\Debug\netcoreapp3.0\MyCustomHttpServer.AssemblyInfo.cs
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\obj\Debug\netcoreapp3.0\MyCustomHttpServer.csproj.CoreCompileInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\obj\Debug\netcoreapp3.0\MyCustomHttpServer.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\obj\Debug\netcoreapp3.0\MyCustomHttpServer.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\02.AsyncWantToBe\MyCustomHttpServer\obj\Debug\netcoreapp3.0\MyCustomHttpServer.genruntimeconfig.cache

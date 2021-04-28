@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SandBox/1.0.0": {
+        "dependencies": {
+          "CTF.Framework": "1.0.0"
+        },
+        "runtime": {
+          "SandBox.dll": {}
+        }
+      },
+      "CTF.Framework/1.0.0": {
+        "runtime": {
+          "CTF.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SandBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CTF.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\CTF.Framework.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\bin\Debug\netcoreapp3.0\CTF.Framework.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CopyComplete
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.genruntimeconfig.cache

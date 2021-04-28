@@ -1,0 +1,12 @@
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\bin\Debug\netcoreapp3.0\Calculator.Tests.deps.json
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\bin\Debug\netcoreapp3.0\Calculator.Tests.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\bin\Debug\netcoreapp3.0\Calculator.Tests.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\bin\Debug\netcoreapp3.0\CTF.Framework.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\bin\Debug\netcoreapp3.0\CTF.Framework.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\obj\Debug\netcoreapp3.0\Calculator.Tests.csprojAssemblyReference.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\obj\Debug\netcoreapp3.0\Calculator.Tests.AssemblyInfoInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\obj\Debug\netcoreapp3.0\Calculator.Tests.AssemblyInfo.cs
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\obj\Debug\netcoreapp3.0\Calculator.Tests.csproj.CoreCompileInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\obj\Debug\netcoreapp3.0\Calculator.Tests.csproj.CopyComplete
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\obj\Debug\netcoreapp3.0\Calculator.Tests.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\Calculator.Tests\obj\Debug\netcoreapp3.0\Calculator.Tests.pdb

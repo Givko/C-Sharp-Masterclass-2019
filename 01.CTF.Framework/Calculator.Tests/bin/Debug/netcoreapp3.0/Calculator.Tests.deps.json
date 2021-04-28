@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Calculator.Tests/1.0.0": {
+        "dependencies": {
+          "CTF.Framework": "1.0.0"
+        },
+        "runtime": {
+          "Calculator.Tests.dll": {}
+        }
+      },
+      "CTF.Framework/1.0.0": {
+        "runtime": {
+          "CTF.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CTF.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

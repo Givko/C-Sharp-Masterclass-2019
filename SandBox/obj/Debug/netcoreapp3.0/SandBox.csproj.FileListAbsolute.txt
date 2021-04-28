@@ -1,0 +1,16 @@
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\SandBox.exe
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\SandBox.deps.json
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\SandBox.runtimeconfig.json
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\SandBox.runtimeconfig.dev.json
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\SandBox.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\SandBox.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\CTF.Framework.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\bin\Debug\netcoreapp3.0\CTF.Framework.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.csprojAssemblyReference.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.AssemblyInfoInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.AssemblyInfo.cs
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.csproj.CoreCompileInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.csproj.CopyComplete
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\SandBox\obj\Debug\netcoreapp3.0\SandBox.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\bin\Debug\netcoreapp3.0\CTF.Framework.deps.json
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\bin\Debug\netcoreapp3.0\CTF.Framework.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\bin\Debug\netcoreapp3.0\CTF.Framework.pdb
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\obj\Debug\netcoreapp3.0\CTF.Framework.AssemblyInfoInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\obj\Debug\netcoreapp3.0\CTF.Framework.AssemblyInfo.cs
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\obj\Debug\netcoreapp3.0\CTF.Framework.csproj.CoreCompileInputs.cache
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\obj\Debug\netcoreapp3.0\CTF.Framework.dll
+C:\Personal Projects\C# masterclass course\Previous Exam\01.CTF.Framework\CTF.Framework\obj\Debug\netcoreapp3.0\CTF.Framework.pdb

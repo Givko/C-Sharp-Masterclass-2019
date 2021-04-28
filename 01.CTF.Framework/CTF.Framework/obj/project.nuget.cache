@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdRvabtYv790iqJC914zxf7cPvETrdz77vEisl+ib1SPWOwkHNkRBpog2YtbT8CqgBrr2WbUnOJ9sLi9+NtVAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Personal Projects\\C# masterclass course\\Previous Exam\\01.CTF.Framework\\CTF.Framework\\CTF.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
