@@ -2,6 +2,7 @@
 {
     public class StartUp
     {
+		//test
         public static void Main()
         {
             var summator = new Summator();
